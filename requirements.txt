@@ -1,0 +1,4 @@
+py-cord
+requests
+filesplit
+alive_progress
